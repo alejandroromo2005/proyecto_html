@@ -1,0 +1,60 @@
+/* estilo para eliminar el borde de la hoja html */
+body{
+    margin: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ background-image: url(/proyecto/imagenes/arbol.jpg);
+ background-size: cover;
+ border: 2px solid black;
+}
+.head, nav, main{
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+
+ .head, nav, main, footer{
+    background-color: transparent!important;
+    border: 1px solid black;
+}
+.head{
+    background-image: url(/proyecto/imagenes/ciro.jpg);
+    color: crimson;
+    height: 152px;
+    text-align: center;
+    
+}
+.contenido{
+    
+    display: flex;
+    margin: 20px 0;
+    text-align: center;
+}
+nav,main{
+    height: 400px;
+    background-image: url(/proyecto/imagenes/duarte.jpg);
+}
+nav{
+    background-color: teal;
+    color:#1BE7AC;
+    margin-right: 20px;
+    flex: 30%;
+}
+main{
+    background-color: darkred;
+    color: #DB1C36;
+    flex: 65%;
+}
+footer{
+    background-image: url(/proyecto/imagenes/isabel.jpg);
+    color: #2EE11C;
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    margin: 10px 0;
+}
+.scp{
+   margin: 10px;
+   height: 100px;
+}

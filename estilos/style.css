@@ -1,0 +1,73 @@
+/* estilo para eliminar el borde de la hoja html */
+body{
+    margin: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p { 
+    color: chocolate;
+    
+}
+h1{
+ text-align: center;
+ padding: 5% 0;
+}
+
+ h2{
+     color: darkgreen;
+ }
+
+ div{
+     padding: 15% 30%;
+     margin: 20px 0;
+     border:darksalmon 1px solid;
+     background-color: deepskyblue;
+ }
+
+#titulo {
+    background-color: crimson;
+}
+
+.texto{
+    color: darksalmon;
+    font-family: monospace;
+}
+
+.text_Largue{
+    font-size: large;
+}
+
+.text_medium{
+    font-size: medium;
+}
+.text_smaller{
+    font-size: smaller;
+}
+.link {
+    text-decoration: none;
+    color: gold;
+    font-size: 25px;
+    cursor: pointer;
+}
+.head{
+    background-color: cornflowerblue;
+    color: crimson;
+    border: none;
+}
+.contenido{
+    border: none;
+    background-color:transparent;
+    display: flex;
+    padding: 0;
+}
+nav{
+    background-color: darkcyan;
+    color: darkorange;
+}
+main{
+    background-color: darkred;
+    color: deepskyblue;
+}
+footer{
+    background-color: green;
+    color: hotpink;
+}
