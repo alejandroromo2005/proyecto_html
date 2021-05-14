@@ -11,14 +11,14 @@
 
     <div class="fila"> <!-- primera fila-->
 
-    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/imagenes/avion.jpeg">  <div class="medio"> <!--nuevo agreagado-->
+    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/proyecto_html/imagenes/avion.jpeg">  <div class="medio"> <!--nuevo agreagado-->
      <div class="borde_top"></div>
      <h1 class="text-roman text-mayus  title text_center">Viaja Seguro</h1>
      <div class="borde_top"></div>
     </div> <!--final nuevo agregado-->
     <!-- columna 1--> </div> 
 
-    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/imagenes/mar.jpeg"> <div class="medio"> <!--nuevo agreagado 2-->
+    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/proyecto_html/imagenes/mar.jpeg"> <div class="medio"> <!--nuevo agreagado 2-->
     <div class="borde_top"></div>
      <h1 class="text-roman text-mayus  title text_center">Viaja Seguro</h1>
      <div class="borde_top"></div>
@@ -29,13 +29,13 @@
 
     <div class="fila"> <!--segunda fila-->
 
-    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/imagenes/ciudad.jpeg"> <div class="medio">
+    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/proyecto_html/imagenes/ciudad.jpeg"> <div class="medio">
     <div class="borde_top"></div>
      <h1 class="text-roman text-mayus  title text_center">Viaja Seguro</h1>
      <div class="borde_top"></div>   
     </div>
     <!--columna 1--></div>
-    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/imagenes/luces.jpeg"> <div class="medio">
+    <div class="columna"> <div class="filtro"></div> <img src="/proyecto/proyecto_html/imagenes/luces.jpeg"> <div class="medio">
     <div class="borde_top"></div>
      <h1 class="text-roman text-mayus  title text_center">Viaja Seguro</h1>
      <div class="borde_top"></div>   
